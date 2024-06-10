@@ -1,6 +1,6 @@
-# azis
+# AZIS
 
-A new Flutter project.
+A finance and IA project on Flutter.
 
 ## Getting Started
 

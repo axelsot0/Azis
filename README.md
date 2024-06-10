@@ -17,16 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 A few resources to get you started if this is your first Flutter project:
 
 ## Table of Contents
-Introduction
-Development Environment Setup
-Project Structure
-Main Features
-Dependencies
-Usage Instructions
-Contributing
-License
+1.Introduction
+2.Development Environment Setup
+3.Project Structure
+4.Main Features
+5.Dependencies
+6.Usage Instructions
+7.Contributing
+8.License
 
-# Introduction
+## Introduction
 Azis is a mobile application developed in Flutter aimed at business Solutions. 
 This project is designed for assist on legal and gerencial issues.
 
@@ -57,27 +57,13 @@ flutter run
 ## Project Structure
 The project follows a typical Flutter structure. Below is the main structure:
 
-css
-Copiar código
-azis/
-├── android/
-├── ios/
-├── lib/
-│   ├── models/
-│   ├── screens/
-│   ├── widgets/
-│   ├── main.dart
-│   └── [other files and folders]
-├── test/
-├── pubspec.yaml
-└── README.md
 
 models/: Contains data classes and models.
 screens/: Contains the main application screens.
 widgets/: Contains reusable widgets.
 main.dart: Entry point of the application.
 
-##Maiin Features
+## Maiin Features
 User Authentication: Registration, login, and password recovery.
 Navigation: Navigation between different screens using Navigator.
 State Management: Using Provider for state management.

@@ -26,11 +26,11 @@ Usage Instructions
 Contributing
 License
 
-#Introduction
+# Introduction
 Azis is a mobile application developed in Flutter aimed at business Solutions. 
 This project is designed for assist on legal and gerencial issues.
 
-##Development Environment Setup
+## Development Environment Setup
 
 To start working with Azis, you need to set up your development environment with the following tools:
 
@@ -39,7 +39,7 @@ Dart SDK: Included with the Flutter SDK.
 Code Editor: Recommended Visual Studio Code or Android Studio.
 Target Platforms: iOS and Android. Ensure you have emulators or physical devices set up.
 
-##Installation
+## Installation
 Clone the repository
 
 bash
@@ -54,7 +54,7 @@ Run the application
 bash
 flutter run
 
-##Project Structure
+## Project Structure
 The project follows a typical Flutter structure. Below is the main structure:
 
 css
@@ -84,7 +84,7 @@ State Management: Using Provider for state management.
 User Interface: Responsive and user-friendly design.
 API Integration: Communication with a REST API to use the GPT 4o Openai Model.
 
-##Dependences
+## Dependences
 The main dependencies used in the project are listed in pubspec.yaml. Some of them include:
 
 provider: ^6.0.0

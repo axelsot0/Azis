@@ -43,7 +43,7 @@ Target Platforms: iOS and Android. Ensure you have emulators or physical devices
 Clone the repository
 
 bash
-git clone https://github.com/your_username/azis.git
+git clone https://github.com/axelsot0/azis.git
 cd azis
 Install dependencies
 
